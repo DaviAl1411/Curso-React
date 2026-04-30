@@ -1,0 +1,18 @@
+
+
+.PageLayoutContainer{
+   display: flex;
+   justify-content: center;
+
+   margin-top: 16px;
+}
+.PageContent{
+     width : 100%;
+     max-width: 800px;
+     background-color: white;
+     padding: 16px;
+     border-radius: 8px;
+}
+.PageTitle{
+    margin-top: 0;
+}
